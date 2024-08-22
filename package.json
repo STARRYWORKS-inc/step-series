@@ -1,6 +1,6 @@
 {
   "name": "@starryworks_inc/step-series",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "node.js library to use ponoor experiment's STEP series(STEP 800/400).",
   "main": "dist/index.js",
   "files": [
