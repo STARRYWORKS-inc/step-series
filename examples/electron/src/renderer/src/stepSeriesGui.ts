@@ -1,5 +1,5 @@
 import { Pane } from "tweakpane";
-import { Step400, Step800, MicroStepMode } from "@starryworks/step-series/";
+import { Step400, Step800, MicroStepMode } from "@starryworks_inc/step-series/";
 import { BindingApi } from "@tweakpane/core";
 
 interface ParamsObj {

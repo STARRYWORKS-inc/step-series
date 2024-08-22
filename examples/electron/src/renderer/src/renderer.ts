@@ -1,5 +1,5 @@
 import { Osc } from "./osc";
-import { Step800 } from "@starryworks/step-series";
+import { Step800 } from "@starryworks_inc/step-series";
 import * as motorConfig from "./config.json";
 import { StepSeriesGui } from "./stepSeriesGui";
 

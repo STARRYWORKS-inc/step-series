@@ -1037,7 +1037,7 @@
   dependencies:
     "@sinonjs/commons" "^3.0.0"
 
-"@starryworks/step-series@file:../..":
+"@starryworks_inc/step-series@file:../..":
   version "1.0.0"
   dependencies:
     typescript "^5.5.4"
