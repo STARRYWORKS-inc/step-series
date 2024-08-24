@@ -2160,7 +2160,7 @@ export default abstract class StepSeries extends EventEmitter {
 		this.move(motorId, steps);
 	};
 	/**
-	 * 事前に設定したスピードプロファイルにしたがって、指定角度まで最短経路で移動します。指定角度まで移動し終わるまではBUSY状態になります。
+	 * 事前に設定したスピードプロファイルにしたがって、指定角度まで移動します。指定角度まで移動し終わるまではBUSY状態になります。
 	 * 実行可能タイミング: 動作開始条件時
 	 * @param motorId
 	 */

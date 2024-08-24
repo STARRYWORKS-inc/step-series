@@ -6,7 +6,7 @@ class _Osc extends EventEmitter {
 
 	constructor() {
 		super();
-		window.electron.ipcRenderer.on("OscReceived", this.#onOscReceived);
+		window.electron.ipcRenderer.on("OscReceived", this.onOscReceived);
 	}
 
 	/**
@@ -14,7 +14,7 @@ class _Osc extends EventEmitter {
 	 * @param _
 	 * @param message
 	 */
-	#onOscReceived = (
+	onOscReceived = (
 		_: IpcRendererEvent,
 		host: string,
 		address: string,
