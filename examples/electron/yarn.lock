@@ -1037,8 +1037,10 @@
   dependencies:
     "@sinonjs/commons" "^3.0.0"
 
-"@starryworks_inc/step-series@file:../..":
-  version "1.0.0"
+"@starryworks_inc/step-series@^0.1.3":
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/@starryworks_inc/step-series/-/step-series-0.1.3.tgz#7ee327387f6cc14624ad791e099150796796e983"
+  integrity sha512-Qq9BtFAWAsiLUBnp5/5h3E/o3Pzq1mfo4AUpm7p1ryawpCllT1iS1PFC48aBTVYiq6Cs6N6QtbZ+J3zrFTw53Q==
   dependencies:
     typescript "^5.5.4"
 
